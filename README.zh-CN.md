@@ -2,6 +2,11 @@
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
+[![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-xiaohongshu-content-studio)
+[![Last Commit](https://img.shields.io/github/last-commit/however-yir/codex-skill-xiaohongshu-content-studio?style=flat-square)](https://github.com/however-yir/codex-skill-xiaohongshu-content-studio/commits/main)
+
 > 一个更贴近小红书原生表达的 Codex skill，用于标题、正文、封面文案和轮播内容包装。
 
 这是一个专门面向小红书内容创作的 Codex skill，适合把项目分享、个人经验、AI 工具使用记录、学习笔记等内容，整理成更适合平台发布的成套表达。

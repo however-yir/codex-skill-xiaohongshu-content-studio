@@ -2,6 +2,11 @@
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
+[![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-xiaohongshu-content-studio)
+[![Last Commit](https://img.shields.io/github/last-commit/however-yir/codex-skill-xiaohongshu-content-studio?style=flat-square)](https://github.com/however-yir/codex-skill-xiaohongshu-content-studio/commits/main)
+
 > Native-feeling Xiaohongshu content packaging for titles, body copy, covers, and carousels.
 
 中文简介：这是一个面向小红书内容包装的 Codex skill，适合生成标题、封面文案、正文、轮播结构和配图方向，让内容更贴近平台原生表达。
