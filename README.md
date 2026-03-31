@@ -1,5 +1,9 @@
 # xiaohongshu-content-studio
 
+🔥 A Codex skill for creating native-feeling Xiaohongshu content packages.  
+🚀 Generates titles, hooks, cover copy, body structure, and image direction for stronger post performance.  
+⭐ Helps creators turn project insights into platform-ready publishable content.
+
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
