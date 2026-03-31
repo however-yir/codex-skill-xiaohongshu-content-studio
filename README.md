@@ -1,6 +1,10 @@
 # xiaohongshu-content-studio
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 > Native-feeling Xiaohongshu content packaging for titles, body copy, covers, and carousels.
+
+中文简介：这是一个面向小红书内容包装的 Codex skill，适合生成标题、封面文案、正文、轮播结构和配图方向，让内容更贴近平台原生表达。
 
 A Codex skill for building Xiaohongshu-ready content packages including titles, cover text, body copy, carousel direction, image ideas, and posting angles.
 
